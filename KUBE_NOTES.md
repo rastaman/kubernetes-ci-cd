@@ -62,6 +62,8 @@ Access k8s on other server, configure cluster, configuring RBAC :
 - [kubectl Cheat Sheet - Kubernetes](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [JSONPath Support - Kubernetes](https://kubernetes.io/docs/reference/kubectl/jsonpath/)
 
+- [Namespaces - Kubernetes](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/)
+
 # Articles and tutorials
 
 - [Set Up a CI/CD Pipeline with Kubernetes Part 1: Overview](https://www.linux.com/blog/learn/chapter/Intro-to-Kubernetes/2017/5/set-cicd-pipeline-kubernetes-part-1-overview)
